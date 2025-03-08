@@ -2,6 +2,8 @@ Next.js Supabase Chat Application
 
 A real-time chat application built using Next.js, Supabase, Tailwind CSS, and TypeScript. This is my first Next.js application, and it provides user authentication (signup & login) and chat functionality with real-time updates.
 
+🔗 Live Demo: Chat App
+
 🚀 Features
 
 🔐 Authentication (Signup & Login) using Supabase Auth
